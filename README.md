@@ -37,7 +37,12 @@ I faced issues with inconsistent and missing data, currency was not standardized
 Impact
 
 my analysis provided actionable insights to improve sales strategies, manage inventory better, and target customers more effectively. Automating data collection also saved the sales team a lot of time.
+
 Visuals
+![Screenshot (127)](https://github.com/user-attachments/assets/14569264-e033-40f3-bf43-1651d259a539)
+![Screenshot (128)](https://github.com/user-attachments/assets/ce4326c1-ad35-43f6-9ac5-c0ac683eef0f)
+![Screenshot (129)](https://github.com/user-attachments/assets/282db407-513e-4e16-aca5-37a146699dee)
+
    
 How to Use This Repository
 1.	Clone the Repository: git clone https://github.com/yourusername/atliq-hardware-sales-analysis.git
